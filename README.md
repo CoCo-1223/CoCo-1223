@@ -1,4 +1,4 @@
-### MY PROJECT 
+### Hi, I'm chaeeun
 
 <!--
 **CoCo-1223/CoCo-1223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
