@@ -14,7 +14,7 @@
 ---
 ### Experiences <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />
 - (2025.03 - )KITRI - WhiteHat School 3th 교육생 
-- (2025.03 - )NSR - 윤리적 해커 양성과정 6기
+- (2025.03 - )NSR - 윤리적 해커 양성과정 6th
 
 ---
 ### Skills & Tools <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Down Light Skin Tone" width="25" height="25" />
