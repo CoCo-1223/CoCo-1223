@@ -22,4 +22,3 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoCo-1223&layout=compact)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CoCo-1223)
