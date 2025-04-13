@@ -5,7 +5,7 @@
 충북대에서 컴퓨터공학을 전공하고, 사이버보안을 공부하고 있습니다. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" alt="Woman Technologist" width="25" height="25" />
 
 ---
-### Info <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="25" height="25" />
+### Info 
 - School: Chungbuk University 2023.03 ~
 - Major: Computer Science / Minor: Security Consulting
 - Interest: Cyber Security
