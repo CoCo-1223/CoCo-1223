@@ -8,7 +8,7 @@
 ### Info 
 - School: Chungbuk University 2023.03 ~
 - Major: Computer Science / Minor: Security Consulting
-- Interest: Cyber Security
+- Interest: Cyber Security / AI 
 - E-Mail: chaeeungim04@gmail.com
 
 ---
