@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coco-1223&show_icons=true&locale=en" alt="coco-1223" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coco-1223&" alt="coco-1223" /></p>
+[![GitGarden](https://gitgarden.marshallku.dev/?user_name=CoCo-1223)](https://github.com/marshallku/gitgarden)
