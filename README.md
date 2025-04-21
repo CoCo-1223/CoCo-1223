@@ -10,7 +10,9 @@
 - Major: Computer Science / Minor: Security Consulting
 - Interest: Cyber Security / AI 
 - E-Mail: chaeeungim04@gmail.com
-
+<a href="https://discordapp.com/users/co_co__" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="30"/></a>
+  
 ---
 ### Experiences <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />
 - (2025.03 - )KITRI - WhiteHat School 3th 교육생 
