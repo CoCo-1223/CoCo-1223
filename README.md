@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=blur&color=f4e3a9&height=300&section=header&text=Chaeeun's%20GITHUB&fontSize=90&fontColor=323231)
+![header](https://capsule-render.vercel.app/api?type=blur&color=f4e3a9&height=260&section=header&text=Chaeeun's%20GITHUB&fontSize=50&fontColor=323231)
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien%20Monster.webp" alt="Alien Monster" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Hatching%20Chick.png" alt="Hatching Chick" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Four%20Leaf%20Clover.png" alt="Four Leaf Clover" width="25" height="25" /> 
 
