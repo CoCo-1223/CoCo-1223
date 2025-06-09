@@ -35,6 +35,11 @@ chaeeungim04@gmail.com
 
 
 ### Stats
+<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CoCo-1223" alt="CoCo-1223" /></a> </p>
+
+<br>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CoCo-1223" alt="Stats Card" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoCo-1223)](https://github.com/anuraghazra/github-readme-stats)
