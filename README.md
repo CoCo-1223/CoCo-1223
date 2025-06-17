@@ -42,4 +42,3 @@ chaeeungim04@gmail.com
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CoCo-1223" alt="Stats Card" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoCo-1223)](https://github.com/anuraghazra/github-readme-stats)
